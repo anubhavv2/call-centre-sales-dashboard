@@ -11,3 +11,7 @@ Key features include:
 - Microsoft Excel
 - Pivot Tables, Slicers, Conditional Formatting
 - Bar, and Line Charts  
+
+## Preview  
+![Dashboard Screenshot] ![image](https://github.com/user-attachments/assets/5bd9cd9f-cff6-41c7-82c5-fb039a85c17f)
+
